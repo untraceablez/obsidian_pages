@@ -1,0 +1,1 @@
+The Proxmox Backup server. Used as a basic on-site compressed backup of production VMs. Not used to backup media data. 
