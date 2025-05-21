@@ -1,5 +1,4 @@
 site_name: Middle Earth Homelab
-site_url: https://untraceablez.github.io/obsidian_pages/docs/
 site_dir: site
 docs_dir: docs
 theme:
