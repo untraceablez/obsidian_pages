@@ -26,7 +26,7 @@ theme:
 repo_url: https://github.com/untraceablez/obsidian_pages
 
 # Navigation
-# nav:
+nav:
   - Home: index.md
   - Development: clusters/development/dev-cluster.md
   - Production: clusters/production/prod-cluster.md
