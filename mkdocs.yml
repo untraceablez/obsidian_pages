@@ -1,5 +1,5 @@
 site_name: Middle Earth Homelab
-site_url: https://untraceablez.github.io/obsidian_pages/
+site_url: https://untraceablez.github.io/obsidian_pages/docs/
 
 theme:
     name: 'material'
@@ -28,9 +28,9 @@ repo_url: https://github.com/untraceablez/obsidian_pages
 # Navigation
 nav:
   - Home: index.md
-  - Development: Clusters/Development/dev-cluster.md
-  - Production: Clusters/Production/prod-cluster.md
-  - Services: Services/services.md
+  - Development: clusters/development/dev-cluster.md
+  - Production: clusters/production/prod-cluster.md
+  - Services: services/services.md
 
 
 # Extensions
