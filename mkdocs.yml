@@ -28,9 +28,9 @@ repo_url: https://github.com/untraceablez/obsidian_pages
 # Navigation
 nav:
   - Home: index.md
-  - Development: clusters/development/dev-cluster.md
-  - Production: clusters/production/prod-cluster.md
-  - Services: services/services.md
+  - Development: ./clusters/development/dev-cluster.md
+  - Production: /clusters/production/prod-cluster.md
+  - Services: docs/services/services.md
 
 
 # Extensions
